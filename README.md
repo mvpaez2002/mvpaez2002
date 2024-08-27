@@ -29,11 +29,6 @@
   <img src="https://streak-stats.demolab.com?user=Mvpaez2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Mvpaez2002/Mvpaez2002/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
