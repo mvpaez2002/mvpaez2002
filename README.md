@@ -1,8 +1,5 @@
-<img align="left" height="500" src="https://scontent.fbaq5-1.fna.fbcdn.net/v/t39.30808-6/364700080_6749922625124265_4667121515906255530_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d_HUIgNzKtwQ7kNvgEgo5ch&_nc_ht=scontent.fbaq5-1.fna&oh=00_AYCBYwJP-cN2eWf8LZmSt2osdwFxVg9dAjGg0hd07PipKg&oe=66D3D43D"  />
 
-###
-
-<h1 align="center">María Valentina Páez Romero</h1>
+<h3 align="center">María Valentina Páez Romero</h3>
 
 ###
 
